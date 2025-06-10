@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore model and weight files
+*.h5
+*.pkl
+*.pt
+
+# Ignore temporary or OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
